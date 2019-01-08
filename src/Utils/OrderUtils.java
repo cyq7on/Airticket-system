@@ -15,7 +15,7 @@ public class OrderUtils extends MysqlUtils {
     public  boolean InsertOrder(List<Object> params)
     {
 
-        String sql="INSERT INTO `airlineticket`.`order` VALUES (?, ?, ?, ?, ?, ?, ?,?,?,?,?,?)";
+        String sql="INSERT INTO `airlineticket`.`order` VALUES (?, ?, ?, ?, ?, ?, ?,?,?,?,?,?,?)";
         try {
             this.updateByPreparedStatement(sql, params);
             return true;

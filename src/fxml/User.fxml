@@ -66,6 +66,7 @@
                               <TableColumn prefWidth="66.0" text="起点" />
                               <TableColumn prefWidth="62.0" text="终点" />
                               <TableColumn prefWidth="60.0" text="价格" />
+                              <TableColumn prefWidth="60.0" text="订票状态" />
                           </columns>
                         </TableView>
                      </children></AnchorPane>

@@ -251,7 +251,8 @@ public class ManagerWindow {
 
 
 
-        String []orderpara=new String[]{"orderid","p_name","p_id","f_id","f_com","f_model","f_stime","f_etime","f_start","f_end","f_price"};
+        String []orderpara=new String[]{"orderid","p_name","p_id","f_id","f_com","f_model","f_stime","f_etime","f_start","f_end","f_price","status"};
+//        String []orderpara=new String[]{"orderid","p_name","p_id","f_id","f_com","f_model","f_stime","f_etime","f_start","f_end","f_price"};
         ObservableList<TableColumn> Order_observableList=OrderTable.getColumns();
         for(int i=0;i<Order_observableList.size();i++) {
             Order_observableList.get(i).setCellValueFactory(new PropertyValueFactory<Order,String>(orderpara[i])); //与Order众的属性关联
@@ -265,7 +266,7 @@ public class ManagerWindow {
         List<Map<String,Object>> list =orderUtils.SelectAllOrder();
 
       RefreshOrderTable(list);
-        OrderTable.setItems(OrderObList);
+//        OrderTable.setItems(OrderObList);
 
 
     }
@@ -711,7 +712,7 @@ public class ManagerWindow {
         orderMap.put("航空公司","f_com");
         orderMap.put("起点","f_start");
         orderMap.put("终点","f_end");
-
+//        orderMap.put("订票状态","status");
 
     }
 
@@ -748,8 +749,11 @@ public class ManagerWindow {
             tmp.setF_start(list.get(i).get("f_start").toString());
             tmp.setF_end(list.get(i).get("f_end").toString());
             tmp.setF_price(list.get(i).get("f_price").toString());
+            tmp.setStatus(list.get(i).get("status").toString());
             OrderObList.add(tmp);
         }
+        OrderTable.setItems(OrderObList);
+        OrderTable.refresh();
     }
 
     private void Flight_Buttonevent() {

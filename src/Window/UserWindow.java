@@ -302,6 +302,7 @@ public class UserWindow {
           params.add(selectedflight.getDist());
           params.add(selectedflight.getPrice());
           params.add(useraccount);
+          params.add("订票中");
 
           orderUtils.InsertOrder(params);
 
@@ -334,7 +335,7 @@ public class UserWindow {
               Alert alert = new Alert(Alert.AlertType.INFORMATION);
               alert.setTitle(" ");
               alert.setHeaderText("");
-              alert.setContentText("订票成功,请到我的订单查看详情");
+              alert.setContentText("已申请订票,请到我的订单查看详情");
 
               alert.showAndWait();
 
@@ -353,7 +354,7 @@ public class UserWindow {
       cm_ordertable.getItems().add(deleteorder);
       OrderTable.setContextMenu(cm_ordertable);
 
-      String []orderpara=new String[]{"orderid","p_name","p_id","f_id","f_com","f_model","f_stime","f_etime","f_start","f_end","f_price"};
+      String []orderpara=new String[]{"orderid","p_name","p_id","f_id","f_com","f_model","f_stime","f_etime","f_start","f_end","f_price","status"};
       ObservableList<TableColumn> Order_observableList=OrderTable.getColumns();
       for(int i=0;i<Order_observableList.size();i++) {
           Order_observableList.get(i).setCellValueFactory(new PropertyValueFactory<Order,String>(orderpara[i])); //与Order众的属性关联
@@ -378,6 +379,7 @@ public class UserWindow {
           tmp.setF_start(list.get(i).get("f_start").toString());
           tmp.setF_end(list.get(i).get("f_end").toString());
           tmp.setF_price(list.get(i).get("f_price").toString());
+          tmp.setStatus(list.get(i).get("status").toString());
           OrderObList.add(tmp);
       }
       OrderTable.setItems(OrderObList);

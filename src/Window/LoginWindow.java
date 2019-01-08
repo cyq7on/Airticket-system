@@ -36,7 +36,7 @@ public class LoginWindow extends Application {
     @Override
     public void start(Stage primaryStage) throws Exception{
         Parent root = FXMLLoader.load(getClass().getResource("../fxml/login.fxml"));
-        primaryStage.setTitle("机票预订系统");
+        primaryStage.setTitle("机场巴士订票系统");
         primaryStage.setScene(new Scene(root, 340, 300));
         primaryStage.initStyle(StageStyle.UTILITY);
 

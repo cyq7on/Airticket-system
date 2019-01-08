@@ -1,5 +1,7 @@
 package Model;
 
+import javafx.beans.property.BooleanProperty;
+import javafx.beans.property.SimpleBooleanProperty;
 import javafx.beans.property.SimpleStringProperty;
 
 public class Order {
@@ -14,6 +16,7 @@ public class Order {
     private SimpleStringProperty f_start= new SimpleStringProperty();
     private SimpleStringProperty f_end= new SimpleStringProperty();
     private SimpleStringProperty f_price= new SimpleStringProperty();
+    private SimpleStringProperty status= new SimpleStringProperty();
 
 
     public String getOrderid() {
@@ -148,5 +151,15 @@ public class Order {
         this.f_price.set(f_price);
     }
 
+    public String getStatus() {
+        return status.get();
+    }
 
+    public SimpleStringProperty statusProperty() {
+        return status;
+    }
+
+    public void setStatus(String status) {
+        this.status.set(status);
+    }
 }
