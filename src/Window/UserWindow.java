@@ -42,6 +42,8 @@ public class UserWindow {
 
     private JFXButton button_searchflight;
 
+    private TextField tfNum;
+
     private JFXButton button_saveinfo;
 
     private JFXButton button_ModifyPsw;
@@ -116,6 +118,9 @@ public class UserWindow {
         button_logout =(JFXButton) root.lookup("#button_logout");
 
         button_searchflight=(JFXButton) root.lookup("#button_searchflight");
+
+        tfNum=(TextField) root.lookup("#tf_num");
+        tfNum.setPromptText("输入座位号");
 
         start=( JFXComboBox<String>)root.lookup("#startparams");
         end=( JFXComboBox<String>)root.lookup("#endparams");
