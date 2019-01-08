@@ -2,50 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Utils/OrderUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Utils/OrderUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/LoginWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/LoginWindow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$14.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$15.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$16.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$17.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$17.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$18.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$18.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$19.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$19.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$20.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$20.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$21.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$21.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$22.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$22.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$23.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$23.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$24.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$24.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$25.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$25.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$26.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$26.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$27.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$27.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/UserWindow$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/UserWindow$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/UserWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/UserWindow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/fxml/Manager.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/fxml/User.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/fxml/login.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Utils/OrderUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Utils/OrderUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Window/LoginWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Window/LoginWindow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Window/ManagerWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Window/ManagerWindow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Window/UserWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Window/UserWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fxml/Admin.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/fxml/Admin.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/fxml/Manager.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/fxml/Manager.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/fxml/User.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/fxml/User.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fxml/login.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/fxml/login.fxml" afterDir="false" />
     </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -132,11 +93,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Window/UserWindow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="474">
-              <caret line="332" column="18" selection-start-line="332" selection-start-column="18" selection-end-line="332" selection-end-column="18" />
+            <state relative-caret-position="283">
+              <caret line="357" column="70" selection-start-line="357" selection-start-column="70" selection-end-line="357" selection-end-column="70" />
             </state>
           </provider>
         </entry>
@@ -150,12 +111,31 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/fxml/login.fxml">
           <provider editor-type-id="JavaFX-Scene-Builder" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="5" column="47" lean-forward="true" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+            <state relative-caret-position="147">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Window/ManagerWindow.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="975" column="5" lean-forward="true" selection-start-line="975" selection-start-column="5" selection-end-line="975" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/fxml/User.fxml">
+          <provider editor-type-id="JavaFX-Scene-Builder" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="63" column="75" lean-forward="true" selection-start-line="63" selection-start-column="75" selection-end-line="63" selection-end-column="75" />
             </state>
           </provider>
         </entry>
@@ -181,10 +161,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>params</find>
-      <find>Refresh</find>
-      <find>RefreshFlightTable</find>
-      <find>Flight tmp = new Flight();</find>
       <find>Order tmp=new Order();</find>
       <find>Order tmp=new Order()</find>
       <find>Order tmp=new Order(</find>
@@ -211,7 +187,17 @@
       <find>orderMap</find>
       <find>radiobutton</find>
       <find>airlineticket</find>
+      <find>航班管理</find>
+      <find>航班编号</find>
+      <find>起飞时间</find>
+      <find>航班公司</find>
     </findStrings>
+    <replaceStrings>
+      <replace>班车管理</replace>
+      <replace>班车编号</replace>
+      <replace>到达时间</replace>
+      <replace>班车公司</replace>
+    </replaceStrings>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -251,16 +237,16 @@
         <option value="$PROJECT_DIR$/src/Window/RegistWindow.java" />
         <option value="$PROJECT_DIR$/src/Window/findpassW.java" />
         <option value="$PROJECT_DIR$/src/Entity/User.java" />
-        <option value="$PROJECT_DIR$/src/Window/ManagerWindow.java" />
         <option value="$PROJECT_DIR$/airlineticket.sql" />
         <option value="$PROJECT_DIR$/src/Utils/MysqlUtils.java" />
         <option value="$PROJECT_DIR$/src/Utils/UserUtils.java" />
         <option value="$PROJECT_DIR$/src/Utils/PassengerUtils.java" />
         <option value="$PROJECT_DIR$/src/Utils/FlightUtils.java" />
-        <option value="$PROJECT_DIR$/src/Window/UserWindow.java" />
         <option value="$PROJECT_DIR$/src/Utils/OrderUtils.java" />
         <option value="$PROJECT_DIR$/src/Window/LoginWindow.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/Window/ManagerWindow.java" />
+        <option value="$PROJECT_DIR$/src/Window/UserWindow.java" />
         <option value="$PROJECT_DIR$/src/fxml/User.fxml" />
       </list>
     </option>
@@ -349,6 +335,12 @@
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/fxml" />
+      <recent name="$PROJECT_DIR$/src/Utils" />
+      <recent name="$PROJECT_DIR$/src/Window" />
+      <recent name="$PROJECT_DIR$/src/Model" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Airticket-system\src\fxml" />
@@ -508,12 +500,12 @@
       <workItem from="1546488046219" duration="1482000" />
       <workItem from="1546921425152" duration="721000" />
       <workItem from="1546922823750" duration="1703000" />
-      <workItem from="1546934460337" duration="240000" />
+      <workItem from="1546934460337" duration="1655000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="286632000" />
+    <option name="totallyTimeSpent" value="288042000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -528,7 +520,7 @@
     <frame x="1600" y="0" width="1920" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.31740063" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.25402793" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -537,7 +529,7 @@
       <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32968536" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4838013" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.600432" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.24931507" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -693,16 +685,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Window/ManagerWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7280">
-          <caret line="260" selection-start-line="260" selection-end-line="260" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/fxml/Manager.fxml">
       <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor">
@@ -739,13 +721,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Window/UserWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="332" column="18" selection-start-line="332" selection-start-column="18" selection-end-line="332" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Utils/OrderUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
@@ -753,19 +728,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/fxml/User.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="55" column="43" lean-forward="true" selection-start-line="55" selection-start-column="43" selection-end-line="55" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/fxml/login.fxml">
       <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="47" lean-forward="true" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+        <state relative-caret-position="147">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Window/ManagerWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="975" column="5" lean-forward="true" selection-start-line="975" selection-start-column="5" selection-end-line="975" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fxml/User.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="63" column="75" lean-forward="true" selection-start-line="63" selection-start-column="75" selection-end-line="63" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Window/UserWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="357" column="70" selection-start-line="357" selection-start-column="70" selection-end-line="357" selection-end-column="70" />
         </state>
       </provider>
     </entry>

@@ -252,7 +252,6 @@ public class ManagerWindow {
 
 
         String []orderpara=new String[]{"orderid","p_name","p_id","f_id","f_com","f_model","f_stime","f_etime","f_start","f_end","f_price","status"};
-//        String []orderpara=new String[]{"orderid","p_name","p_id","f_id","f_com","f_model","f_stime","f_etime","f_start","f_end","f_price"};
         ObservableList<TableColumn> Order_observableList=OrderTable.getColumns();
         for(int i=0;i<Order_observableList.size();i++) {
             Order_observableList.get(i).setCellValueFactory(new PropertyValueFactory<Order,String>(orderpara[i])); //与Order众的属性关联
@@ -672,6 +671,21 @@ public class ManagerWindow {
             }
         });
 
+        Order_observableList.get(11).setOnEditCommit(new EventHandler<TableColumn.CellEditEvent>() {
+            @Override
+            public void handle(TableColumn.CellEditEvent event) {
+                // 界面修改订单信息
+                String a_value=event.getNewValue().toString();  //获取文本框修改的值
+                List<Object> paras=new ArrayList<Object>();      //传参
+                paras.add(a_value);
+                paras.add( ((Order) OrderTable.getSelectionModel().getSelectedItem()).getOrderid()); //获取订单id
+
+                if( orderUtils.UpDate_A_By_ID("status",paras) ){
+                    ((Order) OrderTable.getSelectionModel().getSelectedItem()).setF_price(event.getNewValue().toString());
+                }
+            }
+        });
+
 
     }
 
@@ -682,10 +696,10 @@ public class ManagerWindow {
     private void initFlightComboBox()
     {
         flightMap=new HashMap<>();
-        flightMap.put("航班编号","f_id");
-        flightMap.put("航班公司","f_com");
+        flightMap.put("班车编号","f_id");
+        flightMap.put("班车公司","f_com");
         flightMap.put("机型","f_model");
-        flightMap.put("起飞时间","f_stime");
+        flightMap.put("到达时间","f_stime");
         flightMap.put("到达时间","f_etime");
         flightMap.put("起点","f_start");
         flightMap.put("终点","f_dist");
@@ -707,12 +721,12 @@ public class ManagerWindow {
         orderMap=new HashMap<>();
         orderMap.put("订单编号","orderid");
         orderMap.put("身份证","p_id");
-        orderMap.put("航班编号","f_id");
+        orderMap.put("班车编号","f_id");
         orderMap.put("姓名","p_name");
         orderMap.put("航空公司","f_com");
         orderMap.put("起点","f_start");
         orderMap.put("终点","f_end");
-//        orderMap.put("订票状态","status");
+        orderMap.put("订票状态","status");
 
     }
 
@@ -792,7 +806,7 @@ public class ManagerWindow {
             grid.setPadding(new Insets(20, 70, 10, 10));
 
             TextField f_id = new TextField();
-            f_id.setPromptText("航班编号");
+            f_id.setPromptText("班车编号");
             TextField f_com = new TextField();
             f_com.setPromptText("航空公司");
 
@@ -800,7 +814,7 @@ public class ManagerWindow {
             f_model.setPromptText("机型");
 
             TextField f_stime = new TextField();
-            f_stime.setPromptText("起飞时间");
+            f_stime.setPromptText("到达时间");
 
             TextField f_etime = new TextField();
             f_etime.setPromptText("到达时间");
@@ -817,13 +831,13 @@ public class ManagerWindow {
             TextField f_left = new TextField();
             f_left.setPromptText("票数");
 
-            grid.add(new Label("航班编号:"), 0, 0);
+            grid.add(new Label("班车编号:"), 0, 0);
             grid.add(f_id, 1, 0);
             grid.add(new Label("航空公司:"), 0, 1);
             grid.add(f_com, 1, 1);
             grid.add(new Label("机型:"), 0, 2);
             grid.add(f_model, 1, 2);
-            grid.add(new Label("起飞时间:"), 0, 3);
+            grid.add(new Label("到达时间:"), 0, 3);
             grid.add(f_stime, 1, 3);
             grid.add(new Label("到达时间:"), 0, 4);
             grid.add(f_etime, 1, 4);

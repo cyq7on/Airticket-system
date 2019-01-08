@@ -18,16 +18,16 @@
    <left>
       <JFXTabPane prefHeight="729.0" prefWidth="1049.0" BorderPane.alignment="CENTER">
          <tabs>
-          <Tab text="机票预订">
+          <Tab text="车票预订">
                <content>
               <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="540.0" prefWidth="1050.0">
                      <children>
                         <TableView fx:id="flight_table" layoutX="14.0" layoutY="71.0" prefHeight="427.0" prefWidth="753.0">
                           <columns>
-                            <TableColumn prefWidth="68.0" text="航班编号" />
-                            <TableColumn prefWidth="71.0" text="航班公司" />
-                              <TableColumn prefWidth="71.0" text="机型" />
-                              <TableColumn prefWidth="160.0" text="起飞时间" />
+                            <TableColumn prefWidth="68.0" text="班车编号" />
+                            <TableColumn prefWidth="120.0" text="班车公司" />
+                              <!--<TableColumn prefWidth="71.0" text="机型" />-->
+                              <TableColumn prefWidth="160.0" text="到达时间" />
                               <TableColumn prefWidth="143.0" text="到达时间" />
                               <TableColumn prefWidth="52.0" text="起点" />
                               <TableColumn prefWidth="49.0" text="终点" />
@@ -43,7 +43,7 @@
                         </TableView>
                         <JFXComboBox fx:id="startparams" editable="true" layoutX="28.0" layoutY="21.0" prefHeight="30.0" prefWidth="74.0" promptText="起点" />
                         <JFXComboBox fx:id="endparams" editable="true" layoutX="136.0" layoutY="21.0" prefHeight="30.0" prefWidth="67.0" promptText="终点" />
-                        <JFXDatePicker fx:id="datapicker" layoutX="247.0" layoutY="21.0" promptText="起飞时间" />
+                        <JFXDatePicker fx:id="datapicker" layoutX="247.0" layoutY="21.0" promptText="到达时间" />
                         <JFXButton fx:id="button_searchflight" layoutX="508.0" layoutY="21.0" text="搜索航班" />
                      </children>
                   </AnchorPane>
@@ -58,10 +58,10 @@
                               <TableColumn minWidth="0.0" prefWidth="101.0" text="订单编号" />
                             <TableColumn prefWidth="58.0" text="姓名" />
                             <TableColumn prefWidth="168.0" text="身份证" />
-                              <TableColumn prefWidth="70.0" text="航班编号" />
-                              <TableColumn prefWidth="79.0" text="航班公司" />
-                              <TableColumn prefWidth="78.0" text="机型" />
-                              <TableColumn prefWidth="148.0" text="起飞时间" />
+                              <TableColumn prefWidth="70.0" text="班车编号" />
+                              <TableColumn prefWidth="120.0" text="班车公司" />
+                              <!--<TableColumn prefWidth="78.0" text="机型" />-->
+                              <TableColumn prefWidth="148.0" text="到达时间" />
                               <TableColumn prefWidth="142.0" text="到达时间" />
                               <TableColumn prefWidth="66.0" text="起点" />
                               <TableColumn prefWidth="62.0" text="终点" />

@@ -11,16 +11,16 @@
    <children>
       <JFXTabPane layoutX="14.0" layoutY="7.0" prefHeight="614.0" prefWidth="948.0">
          <tabs>
-            <Tab text="航班管理">
+            <Tab text="班车管理">
               <content>
                 <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="956.0">
                      <children>
                         <JFXTreeTableView fx:id="FlightTable" layoutX="14.0" layoutY="50.0" prefHeight="415.0" prefWidth="821.0">
                            <columns>
-                              <TreeTableColumn prefWidth="75.0" text="航班编号" />
-                              <TreeTableColumn prefWidth="75.0" text="航班公司" />
+                              <TreeTableColumn prefWidth="75.0" text="班车编号" />
+                              <TreeTableColumn prefWidth="75.0" text="班车公司" />
                               <TreeTableColumn prefWidth="75.0" text="机型" />
-                              <TreeTableColumn prefWidth="153.0" text="起飞时间" />
+                              <TreeTableColumn prefWidth="153.0" text="到达时间" />
                               <TreeTableColumn prefWidth="139.0" text="到达时间" />
                               <TreeTableColumn prefWidth="78.0" text="起点" />
                               <TreeTableColumn prefWidth="67.0" text="终点" />

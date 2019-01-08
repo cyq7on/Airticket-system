@@ -16,16 +16,16 @@
    <left>
       <JFXTabPane prefHeight="751.0" prefWidth="1032.0" BorderPane.alignment="CENTER">
          <tabs>
-          <Tab text="航班管理">
+          <Tab text="班车管理">
             <content>
               <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="687.0" prefWidth="998.0">
                      <children>
                         <TableView fx:id="FlightTable" editable="true" layoutX="51.0" layoutY="69.0" prefHeight="468.0" prefWidth="821.0">
                           <columns>
-                            <TableColumn prefWidth="75.0" text="航班编号" />
-                            <TableColumn prefWidth="75.0" text="航班公司" />
+                            <TableColumn prefWidth="75.0" text="班车编号" />
+                            <TableColumn prefWidth="75.0" text="班车公司" />
                               <TableColumn prefWidth="75.0" text="机型" />
-                              <TableColumn prefWidth="150.0" text="起飞时间" />
+                              <TableColumn prefWidth="150.0" text="到达时间" />
                               <TableColumn prefWidth="150.0" text="到达时间" />
                               <TableColumn minWidth="75.0" prefWidth="75.0" text="起点" />
                               <TableColumn minWidth="75.0" prefWidth="75.0" text="终点" />
@@ -71,10 +71,10 @@
                             <TableColumn prefWidth="101.0" text="订单编号" />
                             <TableColumn prefWidth="53.0" text="姓名" />
                               <TableColumn prefWidth="176.0" text="身份证" />
-                              <TableColumn prefWidth="71.0" text="航班编号" />
-                              <TableColumn prefWidth="76.0" text="航班公司" />
+                              <TableColumn prefWidth="71.0" text="班车编号" />
+                              <TableColumn prefWidth="76.0" text="班车公司" />
                               <TableColumn prefWidth="76.0" text="机型" />
-                              <TableColumn prefWidth="135.0" text="起飞时间" />
+                              <TableColumn prefWidth="135.0" text="到达时间" />
                               <TableColumn prefWidth="145.0" text="到达时间" />
                               <TableColumn prefWidth="46.0" text="起点" />
                               <TableColumn minWidth="3.0" prefWidth="51.0" text="终点" />

@@ -135,7 +135,7 @@ public class UserWindow {
 
       FlightTable.setContextMenu(cm_bookflight);
 
-        String[] flightpara=new String[] {"id","com","model","stime","etime","start","dist","price","left"};
+        String[] flightpara=new String[] {"id","com","stime","etime","start","dist","price","left"};
 
         ObservableList<TableColumn> flight_observableList=FlightTable.getColumns();
 
@@ -354,7 +354,8 @@ public class UserWindow {
       cm_ordertable.getItems().add(deleteorder);
       OrderTable.setContextMenu(cm_ordertable);
 
-      String []orderpara=new String[]{"orderid","p_name","p_id","f_id","f_com","f_model","f_stime","f_etime","f_start","f_end","f_price","status"};
+//      String []orderpara=new String[]{"orderid","p_name","p_id","f_id","f_com","f_model","f_stime","f_etime","f_start","f_end","f_price","status"};
+      String []orderpara=new String[]{"orderid","p_name","p_id","f_id","f_com","f_stime","f_etime","f_start","f_end","f_price","status"};
       ObservableList<TableColumn> Order_observableList=OrderTable.getColumns();
       for(int i=0;i<Order_observableList.size();i++) {
           Order_observableList.get(i).setCellValueFactory(new PropertyValueFactory<Order,String>(orderpara[i])); //与Order众的属性关联
