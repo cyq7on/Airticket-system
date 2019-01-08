@@ -82,7 +82,7 @@ public class UserWindow {
 
         UserStage=new Stage();
         try{
-            root = FXMLLoader.load(getClass().getResource("../fxml/user.fxml"));
+            root = FXMLLoader.load(getClass().getResource("../fxml/User.fxml"));
         } catch (Exception e){
             e.printStackTrace();
         }

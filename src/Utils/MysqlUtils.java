@@ -11,7 +11,7 @@ public class MysqlUtils {
           //? 这里指明编码格式并且不使用ssl
           private static  final String URL="jdbc:mysql://localhost:3306/airlineticket?useUnicode=true&characterEncoding=utf-8&useSSL=false";
           private static  final String USERNAME="root";
-          private static  final String PASSWORD="123456";
+          private static  final String PASSWORD="root";
 
           private Connection connection;
           private PreparedStatement preparedStatement;

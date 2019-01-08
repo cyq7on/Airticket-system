@@ -1,12 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_46.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_46.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airlineticket.sql" beforeDir="false" afterPath="$PROJECT_DIR$/airlineticket.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Entity/Flight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Entity/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Entity/Passenger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Entity/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Utils/MysqlUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Utils/MysqlUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$17.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$18.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$19.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$20.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$20.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$21.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$21.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$22.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$22.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$23.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$23.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$24.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$24.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$25.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$25.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$26.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$26.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$27.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$27.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/ManagerWindow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/UserWindow$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/UserWindow$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/UserWindow$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/UserWindow$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/UserWindow$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/UserWindow$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Airticket-system/Window/UserWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Airticket-system/Window/UserWindow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Utils/MysqlUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Utils/MysqlUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Window/UserWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Window/UserWindow.java" afterDir="false" />
+    </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,11 +102,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MysqlUtils.java" pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Utils/MysqlUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1292">
-              <caret line="68" column="17" selection-start-line="68" selection-start-column="12" selection-end-line="68" selection-end-column="17" />
+            <state relative-caret-position="280">
+              <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -70,94 +114,49 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoginWindow.java" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Window/LoginWindow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
-              <caret line="31" column="39" lean-forward="true" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+            <state relative-caret-position="158">
+              <caret line="95" column="43" lean-forward="true" selection-start-line="95" selection-start-column="43" selection-end-line="95" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#start#0;class#LoginWindow#0" />
-                <element signature="e#4255#4256#0" expanded="true" />
-                <element signature="e#4318#4319#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OrderUtils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Utils/OrderUtils.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1634">
-              <caret line="91" column="11" selection-start-line="91" selection-start-column="11" selection-end-line="91" selection-end-column="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="112">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PassengerUtils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Utils/PassengerUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1083">
-              <caret line="62" selection-start-line="62" selection-end-line="62" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserUtils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Utils/UserUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1292">
-              <caret line="73" column="56" selection-start-line="73" selection-start-column="56" selection-end-line="73" selection-end-column="56" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#175#176#0" expanded="true" />
-                <element signature="e#210#211#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserWindow.java" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Window/UserWindow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="89" column="39" selection-start-line="89" selection-start-column="39" selection-end-line="89" selection-end-column="39" />
+            <state relative-caret-position="2878">
+              <caret line="281" lean-forward="true" selection-start-line="281" selection-end-line="281" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#6492#6503#0" expanded="true" />
-                <element signature="e#6871#6879#0" expanded="true" />
-                <element signature="e#7585#7593#0" expanded="true" />
-                <element signature="e#9054#9062#0" expanded="true" />
-                <element signature="e#9655#9663#0" expanded="true" />
-                <element signature="e#10495#10503#0" expanded="true" />
-                <element signature="e#12576#12584#0" expanded="true" />
-                <element signature="e#13833#13841#0" expanded="true" />
-                <element signature="e#14075#14083#0" expanded="true" />
-                <element signature="e#14313#14321#0" expanded="true" />
-                <element signature="e#16050#16058#0" expanded="true" />
-                <element signature="e#16620#16628#0" expanded="true" />
-                <element signature="e#17356#17364#0" expanded="true" />
-                <element signature="e#17887#17895#0" expanded="true" />
-                <element signature="e#18602#18610#0" expanded="true" />
                 <element signature="method#dateConvert#0;class#UserWindow#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ManagerWindow.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Window/ManagerWindow.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Utils/UserUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17157">
-              <caret line="903" selection-start-line="903" selection-end-line="903" />
+            <state relative-caret-position="200">
+              <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#175#176#0" expanded="true" />
+                <element signature="e#210#211#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -175,7 +174,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Contex</find>
       <find>params</find>
       <find>Refresh</find>
       <find>RefreshFlightTable</find>
@@ -205,6 +203,7 @@
       <find>userMap</find>
       <find>orderMap</find>
       <find>radiobutton</find>
+      <find>airlineticket</find>
     </findStrings>
   </component>
   <component name="FindManager">
@@ -235,90 +234,44 @@
         <option value="$PROJECT_DIR$/src/Utils/MysqlUtils2.java" />
         <option value="$PROJECT_DIR$/src/Window/register.java" />
         <option value="$PROJECT_DIR$/src/Window/Main.java" />
-        <option value="$PROJECT_DIR$/src/Utils/MysqlUtils.java" />
         <option value="$PROJECT_DIR$/src/Entity/Flight.java" />
-        <option value="$PROJECT_DIR$/src/Utils/FlightUtils.java" />
         <option value="$PROJECT_DIR$/src/Entity/Passenger.java" />
         <option value="$PROJECT_DIR$/src/fxml/23.fxml" />
         <option value="$PROJECT_DIR$/src/controller/MyController.java" />
         <option value="$PROJECT_DIR$/src/fxml/Manager.fxml" />
         <option value="$PROJECT_DIR$/src/Entity/Order.java" />
-        <option value="$PROJECT_DIR$/src/Utils/OrderUtils.java" />
-        <option value="$PROJECT_DIR$/src/Utils/PassengerUtils.java" />
         <option value="$PROJECT_DIR$/src/fxml/Login.fxml" />
         <option value="$PROJECT_DIR$/src/Window/RegistWindow.java" />
-        <option value="$PROJECT_DIR$/src/Utils/UserUtils.java" />
         <option value="$PROJECT_DIR$/src/Window/findpassW.java" />
         <option value="$PROJECT_DIR$/src/Entity/User.java" />
-        <option value="$PROJECT_DIR$/src/Window/LoginWindow.java" />
         <option value="$PROJECT_DIR$/src/Window/ManagerWindow.java" />
+        <option value="$PROJECT_DIR$/airlineticket.sql" />
+        <option value="$PROJECT_DIR$/src/Utils/MysqlUtils.java" />
+        <option value="$PROJECT_DIR$/src/Utils/UserUtils.java" />
+        <option value="$PROJECT_DIR$/src/Utils/PassengerUtils.java" />
+        <option value="$PROJECT_DIR$/src/Utils/FlightUtils.java" />
         <option value="$PROJECT_DIR$/src/Window/UserWindow.java" />
+        <option value="$PROJECT_DIR$/src/Utils/OrderUtils.java" />
+        <option value="$PROJECT_DIR$/src/Window/LoginWindow.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1929" />
-    <option name="y" value="-249" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+    <option name="x" value="1600" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="AndroidView" proportions="" version="1">
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Airticket-system" type="1abcf292:AndroidViewProjectNode" />
-              <item name="Airticket-system" type="e9137016:NonAndroidModuleNode" />
-            </path>
-            <path>
-              <item name="Airticket-system" type="1abcf292:AndroidViewProjectNode" />
-              <item name="Airticket-system" type="e9137016:NonAndroidModuleNode" />
-              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
-            </path>
-            <path>
-              <item name="Airticket-system" type="1abcf292:AndroidViewProjectNode" />
-              <item name="Airticket-system" type="e9137016:NonAndroidModuleNode" />
-              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
-              <item name="fxml" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Airticket-system" type="1abcf292:AndroidViewProjectNode" />
-              <item name="Airticket-system" type="e9137016:NonAndroidModuleNode" />
-              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
-              <item name="Model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Airticket-system" type="1abcf292:AndroidViewProjectNode" />
-              <item name="Airticket-system" type="e9137016:NonAndroidModuleNode" />
-              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
-              <item name="Utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Airticket-system" type="1abcf292:AndroidViewProjectNode" />
-              <item name="Airticket-system" type="e9137016:NonAndroidModuleNode" />
-              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
-              <item name="Window" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -335,40 +288,19 @@
               <item name="Airticket-system" type="b2602c69:ProjectViewProjectNode" />
               <item name="Airticket-system" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Airticket-system" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Airticket-system" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Airticket-system" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Airticket-system" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="fxml" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Airticket-system" type="b2602c69:ProjectViewProjectNode" />
               <item name="Airticket-system" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Airticket-system" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Airticket-system" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Window" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Airticket-system" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Model" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -382,9 +314,11 @@
     <property name="OverrideImplement.combined" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546924570109" />
     <property name="dynamic.classpath" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/mysql-connector-java-5.1.46-bin.jar!/" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
@@ -411,8 +345,23 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.LoginWindow">
-    <configuration default="true" type="Applet" factoryName="Applet">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="LoginWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Window.LoginWindow" />
@@ -424,6 +373,9 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Window.LoginWindow" />
@@ -437,73 +389,44 @@
       </extension>
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="moduleWithDependencies" />
       </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
+    <configuration default="true" type="TestNG">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="moduleWithDependencies" />
       </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
       <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-    </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
-      <Host>localhost</Host>
-      <Port>5050</Port>
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
@@ -556,56 +479,71 @@
       <workItem from="1529154061165" duration="1294000" />
       <workItem from="1529165193685" duration="4023000" />
       <workItem from="1529212691211" duration="4789000" />
+      <workItem from="1546001615957" duration="58000" />
+      <workItem from="1546175626226" duration="2111000" />
+      <workItem from="1546229853748" duration="1196000" />
+      <workItem from="1546395174308" duration="2028000" />
+      <workItem from="1546488046219" duration="1482000" />
+      <workItem from="1546921425152" duration="721000" />
+      <workItem from="1546922823750" duration="1703000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="277050000" />
+    <option name="totallyTimeSpent" value="286349000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1927" y="-247" width="1550" height="838" extended-state="6" />
+    <frame x="0" y="0" width="1600" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.30547947" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20273973" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.13216145" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.17574579" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.24931507" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" id="JetGradle" order="3" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32968536" />
-      <window_info anchor="bottom" id="Changes" order="7" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Profiler" order="7" />
-      <window_info anchor="bottom" id="Problems" order="7" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32968536" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39008042" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.24931507" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3297587" />
       <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info anchor="bottom" id="Profiler" order="8" />
+      <window_info anchor="bottom" id="Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.30547947" />
+      <window_info anchor="bottom" id="Problems" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="15" weight="0.3297587" />
+      <window_info anchor="bottom" id="Docker" order="16" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="JetGradle" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Maven" order="10" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
@@ -613,10 +551,20 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints-dialog>
-        <breakpoints-dialog />
-      </breakpoints-dialog>
-      <option name="time" value="64" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Window/UserWindow.java</url>
+          <line>280</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Utils/UserUtils.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -624,281 +572,33 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Utils/PassengerUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1083">
-          <caret line="62" selection-start-line="62" selection-end-line="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Utils/UserUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1292">
-          <caret line="73" column="56" selection-start-line="73" selection-start-column="56" selection-end-line="73" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#175#176#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Window/UserWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1729">
-          <caret line="243" column="11" selection-start-line="243" selection-start-column="11" selection-end-line="243" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#6492#6503#0" expanded="true" />
-            <element signature="e#6871#6879#0" expanded="true" />
-            <element signature="e#7585#7593#0" expanded="true" />
-            <element signature="e#9054#9062#0" expanded="true" />
-            <element signature="e#9655#9663#0" expanded="true" />
-            <element signature="e#10495#10503#0" expanded="true" />
-            <element signature="e#12576#12584#0" expanded="true" />
-            <element signature="e#13833#13841#0" expanded="true" />
-            <element signature="e#14075#14083#0" expanded="true" />
-            <element signature="e#14313#14321#0" expanded="true" />
-            <element signature="e#16050#16058#0" expanded="true" />
-            <element signature="e#16620#16628#0" expanded="true" />
-            <element signature="e#17356#17364#0" expanded="true" />
-            <element signature="e#17887#17895#0" expanded="true" />
-            <element signature="e#18602#18610#0" expanded="true" />
-            <element signature="method#dateConvert#0;class#UserWindow#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Window/ManagerWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14402">
-          <caret line="895" column="12" selection-start-line="891" selection-start-column="4" selection-end-line="895" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Window/LoginWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#start#0;class#LoginWindow#0" />
-            <element signature="e#4255#4256#0" expanded="true" />
-            <element signature="e#4318#4319#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/controller/Controller.java" />
-    <entry file="file://$PROJECT_DIR$/src/Window/LoginWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/controller/Controller.java" />
-    <entry file="file://F:/mysql-connector-java-5.1.46/src/demo/fabric/EmployeesJdbc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="50" column="9" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://F:/mysql-connector-java-5.1.46/src/demo/fabric/EmployeesJdbc.java" />
     <entry file="file://$USER_HOME$/Desktop/素材/flight_management-master/src/pers/gulo/fm/domain/Flight.java" />
-    <entry file="jar://F:/mysql-connector-java-5.1.46/mysql-connector-java-5.1.46.jar!/com/mysql/jdbc/SQLError.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="283" selection-start-line="283" selection-end-line="283" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/javafx-src.zip!/com/sun/javafx/event/EventHandlerManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="237" selection-start-line="237" selection-end-line="237" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/javafx-src.zip!/com/sun/javafx/scene/control/behavior/ButtonBehavior.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="181" selection-start-line="181" selection-end-line="181" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/javafx-src.zip!/com/sun/javafx/scene/control/skin/BehaviorSkinBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="88" selection-start-line="88" selection-end-line="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/javafx-src.zip!/com/sun/javafx/event/BasicEventDispatcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="57" selection-start-line="57" selection-end-line="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/javafx-src.zip!/com/sun/javafx/event/EventDispatchChainImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="113" selection-start-line="113" selection-end-line="113" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/javafx-src.zip!/com/sun/javafx/event/EventUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/javafx-src.zip!/javafx/event/Event.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="197" selection-start-line="197" selection-end-line="197" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/javafx-src.zip!/javafx/scene/Scene.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="3484" selection-start-line="3484" selection-end-line="3484" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/javafx-src.zip!/com/sun/javafx/tk/quantum/GlassViewEventHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="414" selection-start-line="414" selection-end-line="414" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/javafx-src.zip!/com/sun/glass/ui/View.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="936" selection-start-line="936" selection-end-line="936" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/javafx-src.zip!/javafx/fxml/FXMLLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14440">
-          <caret line="856" selection-start-line="856" selection-end-line="856" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/javafx-src.zip!/com/sun/javafx/event/CompositeEventHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1064">
-          <caret line="85" selection-start-line="85" selection-end-line="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Utils/UserUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Window/LoginWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="27" column="31" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="27" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/QQ接受的文件/Airticket-system-master/src/Utils/UserUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="34" selection-start-line="34" selection-end-line="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/QQ接受的文件/Airticket-system-master/src/Window/LoginWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-265">
-          <caret line="94" column="32" lean-forward="true" selection-start-line="73" selection-start-column="3" selection-end-line="119" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://F:/mysql-connector-java-5.1.46/mysql-connector-java-5.1.46.jar!/com/mysql/jdbc/SQLError.class" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/javafx-src.zip!/com/sun/javafx/event/EventHandlerManager.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/javafx-src.zip!/com/sun/javafx/scene/control/behavior/ButtonBehavior.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/javafx-src.zip!/com/sun/javafx/scene/control/skin/BehaviorSkinBase.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/javafx-src.zip!/com/sun/javafx/event/BasicEventDispatcher.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/javafx-src.zip!/com/sun/javafx/event/EventDispatchChainImpl.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/javafx-src.zip!/com/sun/javafx/event/EventUtil.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/javafx-src.zip!/javafx/event/Event.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/javafx-src.zip!/javafx/scene/Scene.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/javafx-src.zip!/com/sun/javafx/tk/quantum/GlassViewEventHandler.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/javafx-src.zip!/com/sun/glass/ui/View.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/javafx-src.zip!/javafx/fxml/FXMLLoader.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/javafx-src.zip!/com/sun/javafx/event/CompositeEventHandler.java" />
+    <entry file="file://F:/QQ接受的文件/Airticket-system-master/src/Utils/UserUtils.java" />
+    <entry file="file://F:/QQ接受的文件/Airticket-system-master/src/Window/LoginWindow.java" />
     <entry file="file://$PROJECT_DIR$/src/controller/Controller.java" />
     <entry file="file://$PROJECT_DIR$/src/controller/MyController.java" />
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/javafx.fxml/javafx/fxml/FXMLLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="2624" selection-start-line="2624" selection-end-line="2624" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/javafx.controls/javafx/scene/control/Button.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2831">
-          <caret line="201" selection-start-line="201" selection-end-line="201" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/javafx.graphics/javafx/scene/Scene.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68951">
-          <caret line="3879" selection-start-line="3879" selection-end-line="3879" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/javafx.base/javafx/event/EventHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="44" column="9" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/javafx.controls/javafx/scene/control/MenuItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="465" selection-start-line="465" selection-end-line="465" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/javafx.base/javafx/event/EventType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="157" selection-start-line="157" selection-end-line="157" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/javafx.base/javafx/event/Event.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="198" selection-start-line="198" selection-end-line="198" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/javafx.graphics/javafx/scene/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152798">
-          <caret line="8865" selection-start-line="8865" selection-end-line="8865" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Utils/FlightUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1539">
-          <caret line="86" column="5" selection-start-line="74" selection-start-column="2" selection-end-line="86" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/javafx.fxml/javafx/fxml/FXMLLoader.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/javafx.controls/javafx/scene/control/Button.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/javafx.graphics/javafx/scene/Scene.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/javafx.base/javafx/event/EventHandler.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/javafx.controls/javafx/scene/control/MenuItem.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/javafx.base/javafx/event/EventType.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/javafx.base/javafx/event/Event.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/javafx.graphics/javafx/scene/Node.java" />
     <entry file="file://$PROJECT_DIR$/src/Window/findpassW.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="639">
@@ -910,13 +610,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Model/Passenger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="66" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="66" />
         </state>
       </provider>
     </entry>
@@ -943,8 +636,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Utils/OrderUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1634">
-          <caret line="91" column="11" selection-start-line="91" selection-start-column="11" selection-end-line="91" selection-end-column="11" />
+        <state relative-caret-position="1792">
+          <caret line="69" column="31" selection-start-line="69" selection-start-column="31" selection-end-line="69" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -953,8 +646,81 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Utils/PassengerUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1083">
-          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        <state relative-caret-position="1008">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Utils/FlightUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1484">
+          <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fxml/User.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2296">
+          <caret line="82" column="10" selection-start-line="82" selection-start-column="10" selection-end-line="82" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Window/ManagerWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24500">
+          <caret line="903" selection-start-line="903" selection-end-line="903" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/airlineticket.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-980">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Utils/MysqlUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model/Passenger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="66" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fxml/login.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Window/LoginWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="95" column="43" lean-forward="true" selection-start-line="95" selection-start-column="43" selection-end-line="95" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -963,8 +729,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Utils/UserUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1292">
-          <caret line="73" column="56" selection-start-line="73" selection-start-column="56" selection-end-line="73" selection-end-column="56" />
+        <state relative-caret-position="200">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#175#176#0" expanded="true" />
@@ -973,61 +739,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Window/ManagerWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17157">
-          <caret line="903" selection-start-line="903" selection-end-line="903" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Window/LoginWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="31" column="39" lean-forward="true" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#start#0;class#LoginWindow#0" />
-            <element signature="e#4255#4256#0" expanded="true" />
-            <element signature="e#4318#4319#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Window/UserWindow.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="89" column="39" selection-start-line="89" selection-start-column="39" selection-end-line="89" selection-end-column="39" />
+        <state relative-caret-position="2878">
+          <caret line="281" lean-forward="true" selection-start-line="281" selection-end-line="281" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#6492#6503#0" expanded="true" />
-            <element signature="e#6871#6879#0" expanded="true" />
-            <element signature="e#7585#7593#0" expanded="true" />
-            <element signature="e#9054#9062#0" expanded="true" />
-            <element signature="e#9655#9663#0" expanded="true" />
-            <element signature="e#10495#10503#0" expanded="true" />
-            <element signature="e#12576#12584#0" expanded="true" />
-            <element signature="e#13833#13841#0" expanded="true" />
-            <element signature="e#14075#14083#0" expanded="true" />
-            <element signature="e#14313#14321#0" expanded="true" />
-            <element signature="e#16050#16058#0" expanded="true" />
-            <element signature="e#16620#16628#0" expanded="true" />
-            <element signature="e#17356#17364#0" expanded="true" />
-            <element signature="e#17887#17895#0" expanded="true" />
-            <element signature="e#18602#18610#0" expanded="true" />
             <element signature="method#dateConvert#0;class#UserWindow#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Utils/MysqlUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1292">
-          <caret line="68" column="17" selection-start-line="68" selection-start-column="12" selection-end-line="68" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1072,7 +790,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>1.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1089,6 +807,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

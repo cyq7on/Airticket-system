@@ -19,6 +19,10 @@
 -- Table structure for table `admin`
 --
 
+CREATE DATABASE `ticket` DEFAULT CHARACTER SET utf8;
+
+USE `ticket`;
+
 DROP TABLE IF EXISTS `admin`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
