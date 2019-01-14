@@ -1,5 +1,6 @@
 package Window;
 
+import Model.Advice;
 import Model.Flight;
 import Model.Order;
 import Model.User;
@@ -41,11 +42,13 @@ public class ManagerWindow {
     private TableView FlightTable;
     private TableView UserTable;
     private TableView OrderTable;
+    private TableView adviceTable;
 
 
     private ObservableList<Flight> FlightObList;
     private ObservableList<User> UserObList;
     private ObservableList<Order> OrderObList;
+    private ObservableList<Advice> adviceObList;
 
 
     private JFXButton button_searchflight;
@@ -104,6 +107,7 @@ public class ManagerWindow {
       userUtils=new UserUtils();
       orderUtils=new OrderUtils();
 
+        InitAdviceTable();
         InitFlightControl();
         Flight_Buttonevent();
         InitUserControl();
@@ -111,8 +115,6 @@ public class ManagerWindow {
 
         InitOrderControl();
         Order_Buttonevent();
-
-
 
     }
 
@@ -268,6 +270,33 @@ public class ManagerWindow {
 //        OrderTable.setItems(OrderObList);
 
 
+    }
+
+    public void InitAdviceTable(){
+
+        //寻找控件
+        adviceTable=(TableView)root.lookup("#ReqTable");
+
+        String[] para=new String[] {"adviceId","user","advice"};
+
+        ObservableList<TableColumn> columns=adviceTable.getColumns();
+
+        for(int i=0;i<columns.size();i++) {
+            //先绑定
+            columns.get(i).setCellValueFactory(new PropertyValueFactory<Advice,String>(para[i]));
+
+        }
+
+        adviceObList=FXCollections.observableArrayList();
+        for (int i=0;i<3;i++) {
+            Advice advice = new Advice();
+            advice.setAdviceId(String.valueOf(i));
+            advice.setUser("cyq");
+            advice.setAdvice("班车多一点" + i);
+            adviceObList.add(advice);
+        }
+        adviceTable.setItems(adviceObList);
+        adviceTable.refresh();
     }
 
 
