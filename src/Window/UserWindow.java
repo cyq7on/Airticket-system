@@ -120,7 +120,6 @@ public class UserWindow {
         button_searchflight=(JFXButton) root.lookup("#button_searchflight");
 
         tfNum=(TextField) root.lookup("#tf_num");
-        tfNum.setPromptText("输入座位号");
 
         start=( JFXComboBox<String>)root.lookup("#startparams");
         end=( JFXComboBox<String>)root.lookup("#endparams");

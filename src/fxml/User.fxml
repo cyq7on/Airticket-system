@@ -42,11 +42,12 @@
                               <TableColumn prefWidth="172.0" text="身份证" />
                            </columns>
                         </TableView>
-                        <JFXComboBox fx:id="startparams" editable="true" layoutX="28.0" layoutY="21.0" prefHeight="30.0" prefWidth="74.0" promptText="起点" />
-                        <JFXComboBox fx:id="endparams" editable="true" layoutX="136.0" layoutY="21.0" prefHeight="30.0" prefWidth="67.0" promptText="终点" />
-                        <JFXDatePicker fx:id="datapicker" layoutX="247.0" layoutY="21.0" promptText="到达时间" />
-                        <JFXButton fx:id="button_searchflight" layoutX="508.0" layoutY="21.0" text="搜索航班" />
-                         <TextField fx:id="tf_num"  prefWidth="90" layoutX="658.0" layoutY="21.0"/>
+                        <JFXComboBox visible="false" fx:id="startparams" editable="true" layoutX="28.0" layoutY="21.0" prefHeight="30.0" prefWidth="74.0" promptText="起点" />
+                        <JFXComboBox visible="false" fx:id="endparams" editable="true" layoutX="136.0" layoutY="21.0" prefHeight="30.0" prefWidth="67.0" promptText="终点" />
+                        <JFXDatePicker visible="false" fx:id="datapicker" layoutX="247.0" layoutY="21.0" promptText="到达时间" />
+                        <JFXButton visible="false" fx:id="button_searchflight" layoutX="508.0" layoutY="21.0" text="搜索航班" />
+                         <TextField fx:id="tf_num" promptText="请输入座位号" prefWidth="90" layoutX="658.0" layoutY="21.0"/>
+                         <TextField fx:id="tf_req" promptText="请输入建议" prefWidth="200" layoutX="758.0" layoutY="21.0"/>
                      </children>
                   </AnchorPane>
                </content>
